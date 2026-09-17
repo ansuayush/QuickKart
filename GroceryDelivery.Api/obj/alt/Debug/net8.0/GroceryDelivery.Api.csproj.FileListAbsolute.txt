@@ -1,0 +1,7 @@
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.csproj.AssemblyReference.cache
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.AssemblyInfoInputs.cache
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.AssemblyInfo.cs
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.csproj.CoreCompileInputs.cache
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\QuickKart\GroceryDelivery.Api\obj\alt\Debug\net8.0\GroceryDelivery.Api.MvcApplicationPartsAssemblyInfo.cache
